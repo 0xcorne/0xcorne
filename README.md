@@ -3,6 +3,9 @@
 
 ### Hi there 👋 My name is Corné Adema, developer and music producer. Welcome to my GitHub!
 
+- 🔭 I’m currently working on various Python, JavaScript & Solidity projects.
+- 📫 You can reach me on info@corneadema.com
+
 <!--
 **0xcorne/0xcorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
