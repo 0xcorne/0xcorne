@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://corneadema.com/avatar.jpg" width="100"/>
+  <img src="https://corneadema.com/avatar.jpg" width="400"/>
 
 ### Hi there 👋 My name is Corné Adema, developer and music producer. Welcome to my GitHub!
 
