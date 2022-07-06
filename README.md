@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://corneadema.com/avatar.jpg" width="100"/>
+
+### Hi there 👋 My name is Corné Adema, developer and music producer. Welcome to my GitHub!
 
 <!--
 **0xcorne/0xcorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
