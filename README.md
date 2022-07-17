@@ -3,7 +3,7 @@
 
 ### Hi there 👋 My name is Corné Adema, developer and music producer. Welcome to my GitHub!
 
-- 🔭 I’m currently working on various Python, JavaScript & Solidity projects.
+- 🔭 I’m currently working on various Python & JavaScript projects.
 - 📫 You can reach me on info@corneadema.com
 
 <!--
